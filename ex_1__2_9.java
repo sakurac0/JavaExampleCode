@@ -24,7 +24,7 @@ public class ex_1__2_9 {
 		System.out.println(a);
 		a /= 2; // /=2는 변수a값에 2를 나누기함
 		System.out.println(a);
-		a %= 5; // %=5는 a갖ㅅ에 /5를한후 나머지 값을 구함
+		a %= 5; // %=5는 a값에 /5를한후 나머지 값을 구함
 		System.out.println(a);
 
 		System.out.println(++a);
