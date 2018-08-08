@@ -1,7 +1,7 @@
 package example;
 
 class _4_5constuctorinitialization {
-	// 객체를 정의 생성하는 툴인 _4_4constuctorinitialization라는 클래스를 만든다
+	// 객체를 정의 생성하는 툴인 _4_5constuctorinitialization라는 클래스를 만든다
 
 	final String name;
 	// 변경할수없는 문자열 값을 담는 name이라는 변수를 선언한다
